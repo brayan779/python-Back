@@ -1,5 +1,5 @@
 <h1> Cadastro Banco</h1>
-# 💻 [Nome do Projeto]
+# 💻 [gestão Cafeteria]
 
 > Uma descrição breve e impactante do que o projeto faz. Por exemplo: "API de cadastro e gerenciamento de usuários desenvolvida em Python com o framework Flask/Django e banco de dados PostgreSQL."
 
@@ -27,46 +27,6 @@ Detalhe o que o seu código faz. Use uma lista para clareza.
 * **[Funcionalidade 4]:** [Ex: Exclusão de um usuário (CRUD - Delete)]
 * **[Funcionalidade 5]:** [Ex: Autenticação e Autorização (Tokens JWT)]
 
----
-
-## 🔧 Como Rodar o Projeto
-
-Instruções claras são cruciais para que qualquer pessoa consiga rodar seu código.
-
-### Pré-requisitos
-
-* Python [versão usada, ex: 3.10+]
-* [Outro pré-requisito, ex: Docker ou um SGBD]
-
-### Instalação
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/bryan779/python-back.git](https://github.com/bryan779/python-back.git)
-    cd python-back
-    ```
-
-2.  **Crie e ative o ambiente virtual:**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # No Linux/macOS
-    # ou
-    # venv\Scripts\activate   # No Windows
-    ```
-
-3.  **Instale as dependências:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Configure o banco de dados e variáveis de ambiente** (Se aplicável, mencione como fazer isso).
-
-5.  **Execute a aplicação:**
-    ```bash
-    python run.py  # ou o comando que inicia seu projeto
-    ```
-
----
 
 ## 🔗 Portfólio / Outros Projetos
 
