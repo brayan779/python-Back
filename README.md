@@ -1,5 +1,5 @@
 <h1> Cadastro Banco</h1>
-# 💻 [gestão Cafeteria]
+# 💻 [Gestão Cafeteria]
 
 > Uma descrição breve e impactante do que o projeto faz. Por exemplo: "API de cadastro e gerenciamento de usuários desenvolvida em Python com o framework Flask/Django e banco de dados PostgreSQL."
 
@@ -10,10 +10,11 @@
 Liste as principais tecnologias que você usou no projeto. Isso facilita para recrutadores e outros desenvolvedores verem suas habilidades rapidamente.
 
 * **Linguagem:** Python
-* **Frameworks:** [Ex: Flask, Django, FastAPI]
+* **Frameworks:** [ Django]
 * **Banco de Dados:** [Ex: PostgreSQL, MySQL, SQLite]
 * **Dependências:** [Ex: SQLAlchemy, Requests, Marshmallow]
 * **Testes:** [Ex: Pytest, Unittest]
+* **App Usado:** [Pycharm]
 
 ---
 
